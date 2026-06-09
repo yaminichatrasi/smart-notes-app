@@ -57,3 +57,7 @@ Deployed using Netlify.
 ## 👩‍💻 Author
 
 **Yamini Chatrasi**
+=======
+# smart-notes-app
+A React-based Notes Application that allows users to create, edit, delete, search, and manage notes with local storage support.
+>>>>>>> 81ec2ddb36a5d0732383c44f940f7fa8c97509fe
