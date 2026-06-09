@@ -4,7 +4,7 @@ A modern and responsive Notes Application built using React.js. This project all
 
 ## 🌐 Live Demo
 
-👉 https://your-netlify-link.netlify.app
+👉 https://yamininotesapp.netlify.app/
 
 ## ✨ Features
 
